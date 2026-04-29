@@ -14,7 +14,10 @@ This Power BI dashboard analyzes flight delays and cancellations to identify pat
 - Data Visualization
 
 ## 📸 Dashboard Preview
-![Dashboard](report_pg1.png,report_pg2.png,report_pg_3.png)
+
+![Page 1](report_pg1.png)
+![Page 2](report_pg2.png)
+![Page 3](report_pg_3.png)
 
 ## 📥 How to Use
 Download the .pbix file and open using Power BI Desktop.
