@@ -1,2 +1,20 @@
-# flight-delay-cancellation-powerbi-dashboard
-Power BI dashboard analyzing flight delays and cancellations with interactive visual insights.
+# Flight Delay & Cancellation Analysis (Power BI)
+
+## 📊 Overview
+This Power BI dashboard analyzes flight delays and cancellations to identify patterns and key factors affecting airline performance.
+
+## 📌 Features
+- Delay trends analysis
+- Cancellation insights
+- Interactive filters
+- KPI metrics
+
+## 🛠 Tools Used
+- Power BI
+- Data Visualization
+
+## 📸 Dashboard Preview
+![Dashboard](report_pg1.png,report_pg2.png,report_pg_3.png)
+
+## 📥 How to Use
+Download the .pbix file and open using Power BI Desktop.
